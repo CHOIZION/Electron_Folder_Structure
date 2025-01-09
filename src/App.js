@@ -23,10 +23,10 @@ import {
 import Papa from 'papaparse'; // CSV 파싱을 위한 라이브러리
 
 // Assets 폴더에 위치한 이미지 파일들
-import RenPyIcon from './Assets/RenPy.svg';
-import MielImage from './Assets/Miel.png';
-import XvideosPlaceholder from './Assets/Xvideos.png'; // Placeholder 이미지 추가
-import DefaultImage from './Assets/default.png'; // 기본 이미지
+import RenPyIcon from './Assets/.svg';
+import MielImage from './Assets/.png';
+import XvideosPlaceholder from './Assets/.png'; // Placeholder 이미지 추가
+import DefaultImage from './Assets/.png'; // 기본 이미지
 
 // 스타일 컴포넌트 정의
 const AppContainer = styled.div`
