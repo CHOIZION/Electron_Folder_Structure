@@ -12,3 +12,8 @@ Windows Forms로 하면 메모리 터지는 문제가 좀 덜 할 것 같아서 
 
 ### 후기
 React로 Web만 만들어봤는데 Electron 처음 써보면서 되게 재밌었음
+
+### 후기 2
+
+FRIDAY 프로젝트로 이어짐
+현재 PRIVATE 상태지만 정리가 끝나면 PUBLIC으로 바꿀 예정
