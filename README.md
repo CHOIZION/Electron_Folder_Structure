@@ -16,4 +16,5 @@ React로 Web만 만들어봤는데 Electron 처음 써보면서 되게 재밌었
 ### 후기 2
 
 FRIDAY 프로젝트로 이어짐
+
 현재 PRIVATE 상태지만 정리가 끝나면 PUBLIC으로 바꿀 예정
